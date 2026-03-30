@@ -27,7 +27,7 @@ resource "aws_security_group" "my_security_group" {
 
   name        = "terra-security-group"
   vpc_id      = aws_default_vpc.default.id # interpolation
-  description = "this is Inbound and outbound rules for your instance Security group"
+  description = "This is Inbound and outbound rules for your instance Security group"
 
 }
 
