@@ -1,11 +1,3 @@
-# Region 
-
-provider "aws" {
-
-  region = "us-west-2"
-
-}
-
 # key value pair
 
 resource "aws_key_pair" "my_key_pair" {
