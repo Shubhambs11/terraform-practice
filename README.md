@@ -1,6 +1,6 @@
 # Terraform Workflow Guide
 
-## Step 1: Generate SSH Key
+## Generate SSH Key
 
 Generate an SSH key with the name `terra-key`:
 
